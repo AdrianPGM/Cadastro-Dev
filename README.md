@@ -1,6 +1,6 @@
 
 
-# Easy-Shopping
+# Cadastro-Dev
 
 Este é um projeto onde utilizo pela primeira vez o **React**, criando uma aplicação onde o usuário se cadastra e pode ver os outros usuários já cadastrados.
 
